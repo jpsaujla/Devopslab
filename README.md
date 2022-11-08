@@ -1,3 +1,3 @@
 # Devopslab
 Hello World by Jaspal
-This is my line from devops Hub by Jaspal
+This is my line from GitHub by Jaspal
